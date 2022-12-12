@@ -14,3 +14,4 @@ foreach($pegawai as $data => $nama){
 echo "$data: $nama"."<br />";
 }
 ?>
+<h1>asbdfgaf</h1>
